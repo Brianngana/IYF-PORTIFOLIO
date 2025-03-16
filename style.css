@@ -1,0 +1,56 @@
+h1{
+    color:blue;
+    text-align:left;
+}
+ul {
+    color:green;
+    display:flex;
+    gap:100px;
+    outline:blue;
+    color:antiquewhite;
+    text-align:right;
+}
+li{
+    list-style-type:none;
+    text-align:right;
+}
+p2{
+    color:grey;
+    text-align:center;
+    margin:3px;
+}
+p3{
+    color:green;
+
+}
+nav{
+    display:flex;
+    justify-content:center;
+    background-color:black;
+}
+.container{
+    display:flex;
+    justify-content:center;
+}
+.about{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+}
+.about img{
+    height:250px;
+    width:200px;
+    border-radius:50%;
+}
+button{
+    background-color:green;
+    cursor:pointer;
+}
+.container img{
+    height:250px;
+    width:250px
+}
+P3{
+    color:green  white;
+    text-align:center;
+}
