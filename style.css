@@ -54,3 +54,47 @@ P3{
     color:green  white;
     text-align:center;
 }
+.service{
+    text-align:center;
+    color:blueviolet;
+    display:flex;
+    justify-content:center;
+    color:var(antiquewhite);
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 0.2s;
+    color:red;color: var(--primary-color);
+    font-weight: 700;
+    background: linear-gradient(135deg, #0EA5E9, #EC4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+p4{
+    text-align:center;
+    justify-content:center;
+    display: flex;
+    color:aqua;
+    color: blue;
+}
+.web{
+    display:flex;
+    gap:40px;
+    justify-content: center;
+    background: -webkit-gradient(white);
+    vector-effect: 2px;
+}
+.text-sid h1{
+    color:red;
+    text-decoration:underline;
+    cursor: pointer;
+}
+.text h1{
+    color:red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.graphics h1{
+    color:red;
+    text-decoration: underline;
+    cursor: pointer;
+}
